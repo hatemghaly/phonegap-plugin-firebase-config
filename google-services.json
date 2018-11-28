@@ -1,31 +1,35 @@
 {
   "project_info": {
-    "project_number": "440263922530",
-    "firebase_url": "https://commerces-en-ville-492ff.firebaseio.com",
-    "project_id": "commerces-en-ville-492ff",
-    "storage_bucket": "commerces-en-ville-492ff.appspot.com"
+    "project_number": "1071689056171",
+    "firebase_url": "https://etawreed.firebaseio.com",
+    "project_id": "etawreed",
+    "storage_bucket": "etawreed.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:440263922530:android:8213314e9fccc9bf",
+        "mobilesdk_app_id": "1:1071689056171:android:484fb2cc5b53c96a",
         "android_client_info": {
-          "package_name": "com.commercesenville.app"
+          "package_name": "com.dl.tawreed"
         }
       },
       "oauth_client": [
         {
-          "client_id": "440263922530-qcl239dbvebpcf4jansd7esnnh63nl0o.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "1071689056171-h0its73jv4j85pe9god53n0jk1odpvnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dl.tawreed",
+            "certificate_hash": "ea425c783ce0a4e8a34bf0ab30b4215e6cc07569"
+          }
         },
         {
-          "client_id": "440263922530-qhrbna11u8fahoo0r7f3kf4umgt62i3s.apps.googleusercontent.com",
+          "client_id": "1071689056171-lcnokcc0fo6b9jk6h7dn80tmbmmpmhru.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyATZwNdpKbYZ1W4vzV8M0cVV6j5XmtzHtk"
+          "current_key": "AIzaSyDsz6UyZZ7_QUM4c0mF242GI0vn7QZUrDw"
         }
       ],
       "services": {
@@ -33,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071689056171-lcnokcc0fo6b9jk6h7dn80tmbmmpmhru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
